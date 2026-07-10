@@ -3,8 +3,6 @@
 
 A full-cycle analysis of 38,576 personal loans issued in 2021, built to answer one question for portfolio stakeholders: **how healthy is the loan book, and where is default risk concentrated?**
 
-![Dashboard Preview](dashboard-overview(1).png)
-
 ---
 
 ## 📖 Project Overview
