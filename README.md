@@ -78,10 +78,11 @@ The project follows a realistic analyst workflow: clean and validate the raw dat
 ## 📊 Dashboard Preview
 
 **Overview — KPIs, trends, map, grade & purpose risk**
-![Dashboard Overview 1](dashboard-overview(1).png)
+![Dashboard Overview 1](images/dashboard-overview(1).png)
+
 
 **Risk breakdown — term, business insights, seasonality heatmap**
-![Dashboard Overview 2](dashboard-overview(2).png)
+![Dashboard Overview 2](images/dashboard-overview(2).png)
 
 *(Full interactive version available in `bank-loan-dashboard.pbix` — open in Power BI Desktop to explore filters, slicers, and drill-through live.)*
 
